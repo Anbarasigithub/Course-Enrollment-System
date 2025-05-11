@@ -1,0 +1,68 @@
+1. Add Student
+2. Show Courses
+3. Enroll in Course
+4. View Students
+5. Exit
+Enter your choice:1
+Enter Name: Anu
+Enter Age: 15
+Enter Student ID: 01
+
+1. Add Student
+2. Show Courses
+3. Enroll in Course
+4. View Students
+5. Exit
+Enter your choice:1
+Enter Name: Hari
+Enter Age: 14
+Enter Student ID: 02
+
+1. Add Student
+2. Show Courses
+3. Enroll in Course
+4. View Students
+5. Exit
+Enter your choice:4
+
+Student ID: 1
+Name: Anu
+Age: 15
+Enrolled Courses:
+
+Student ID: 2
+Name: Hari
+Age: 14
+Enrolled Courses:
+
+1. Add Student
+2. Show Courses
+3. Enroll in Course
+4. View Students
+5. Exit
+Enter your choice:2
+Available Courses:
+C101: Java Programming
+C102: Data Structures
+C103: Web Development
+
+1. Add Student
+2. Show Courses
+3. Enroll in Course
+4. View Students
+5. Exit
+Enter your choice:3
+Enter Student ID: 02
+Courses:
+1. Java Programming
+2. Data Structures
+3. Web Development
+Enter course number to enroll: 2
+Hari enrolled in Data Structures
+
+1. Add Student
+2. Show Courses
+3. Enroll in Course
+4. View Students
+5. Exit
+Enter your choice:5
